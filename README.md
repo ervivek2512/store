@@ -51,8 +51,22 @@ For getting list of licenses call [https://app.synpat.com/v1/customer_transactio
 For getting list of deals call [https://app.synpat.com/v1/customer_deal_flow]
 For getting Portfolio info call [https://app.synpat.com/v1/portfolio_info/{portfolio_number}]
 
+###### My Whishlist
+Under this section customer can see list of portfolio that selected for wishlist from the store section, here customer can delete any portfolio from wishlist.
 
+For getting wish list call [https://app.synpat.com/v1/customer_wishlist]
+For deleting portfolio from wishlist call [https://app.synpat.com/v1/delete_portfolio_customer_wishlist]
 
+###### My Preference
+Under this section customer can see list of preference.
+
+For getting main category list call [https://app.synpat.com/v1/category]
+For getting child category list call [https://app.synpat.com/v1/category/parent_category]
+For getting preference list call [https://app.synpat.com/v1/customer_preferences]
+For updating preference call [https://app.synpat.com/v1/customer_update_preferences]
+
+###### Continue Shopping
+This will redirect customer to back to the store page
 
 
 
