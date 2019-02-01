@@ -50,6 +50,11 @@ Under this section customer can see list of Licenses which already bought, can s
 For getting list of licenses call [https://app.synpat.com/v1/customer_transactions]
 For getting list of deals call [https://app.synpat.com/v1/customer_deal_flow]
 For getting Portfolio info call [https://app.synpat.com/v1/portfolio_info/{portfolio_number}]
+For check availability call [https://app.synpat.com/v1/check_availability/{portfolio_number}]
+For download call [https://app.synpat.com/v1/download/{portfolio_number}]
+For customize call [https://app.synpat.com/v1/customize/{portfolio_number}]
+For request to participate call [https://app.synpat.com/v1/participate/{portfolio_number}]
+For uploading dcoument call [https://app.synpat.com/v1/upload/{portfolio_number}]
 
 ###### My Whishlist
 Under this section customer can see list of portfolio that selected for wishlist from the store section, here customer can delete any portfolio from wishlist.
